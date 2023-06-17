@@ -1,10 +1,14 @@
-### Hi there 👋
+### Hi there, I'm Ajeng Citra Mawarni 👋
+About me: Achievement-oriented, cum laude graduate from Universitas Budi Luhur with a major in Computer
+Science, specializing in data science.
 
 <!--
 **ajengcitram/ajengcitram** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
+about me:
+- I  fresh graduate from Universitas Budi Luhur
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
